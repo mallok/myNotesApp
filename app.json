@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template (TypeScript)",
-    "slug": "myNotesApp",
+    "name": "My Notes App (TypeScript)",
+    "slug": "my-notes-app-demo",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Simple note-taking app. Using typescript, hooks, and local state to store or modify notes.",
+    "githubUrl": "https://github.com/mallok/myNotesApp.git"
   }
 }
